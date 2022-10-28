@@ -1,4 +1,4 @@
-# Amazon-Sales-EDA
+# Amazon-Sales-Project
 Amazon Sales Exploratory Data Analysis
 
 ## Analysis of Amazon Sales
