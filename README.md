@@ -24,3 +24,7 @@ How the sales of Amazon will increase on the basis of day by day, month by month
 3. MATPLOTLIB
 4. Seboarn
 5. Scipy
+
+
+## Conclusion
+I can reach to the conclusion that people are prefering the amazon e-commerce website ot purchase the product it provide the best and reliable product based on the customer requirement and have the all functionality of replacing , delivery on time, shipping , getting the product in best way and reviewing the products. so more people are purchasing the products so more revenue is generating and growing wide world
